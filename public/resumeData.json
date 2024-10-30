@@ -113,13 +113,5 @@
         "url": "https://github.com/ankitvars/booking-clone"
       }
     ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-        "user": "Martin Fowler"
-      }
-    ]
   }
 }
