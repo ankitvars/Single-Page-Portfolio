@@ -3,7 +3,7 @@
     "name": "Ankit Varshney",
     "occupation": "Software Developer",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
+    "image": "profilepic.webp",
     "bio": "Hello! I’m Ankit Varshney, a passionate Frontend Developer with over two years of experience. I've had the privilege of working with both startups and established companies to create intuitive and responsive web applications. Throughout my journey, I discovered my enthusiasm for empowering aspiring developers to unlock their potential. I take pride in mentoring others and sharing my knowledge through engaging tutorials and projects. My portfolio showcases a range of innovative builds that reflect real-world challenges in web development. Join me as we explore the exciting world of technology together, gaining hands-on experience and essential skills that will pave the way for your success in the industry.",
     "contactmessage": "Get in touch—I’d love to connect and collaborate!",
     "email": "varshneyankit011@gmail.com",
@@ -11,35 +11,30 @@
     "address": {
       "street": "Green Park",
       "city": "Delhi",
-      "state": "Delhi",
+      "state": "New Delhi",
       "zip": "110016"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "https://shorturl.at/X1ZgY",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
+        "name": "leetcode",
+        "url": "https://leetcode.com/u/ankit1802/",
+        "className": "fa fa-code"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/ankitvars",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "gmail",
+        "url": "mailto:varshneyankit011@gmail.com",
+        "className": "fa fa-envelope"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/ankitvars",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +43,24 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Bundelkhand Institute Of Engineering and Technology - UP",
+        "degree": "Bachelor's Degree, Chemical Engineering",
+        "graduated": "July 2022",
+        "description": "Graduated with First Class"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Ruptok Fintech",
+        "title": "Frontend Developer",
+        "years": "Jan 2023 - Present",
+        "description": "Developed and maintained key user-facing features for a fintech platform, enhancing user experience and increasing platform engagement by 20% through intuitive design and optimized workflows. Enhanced platform performance by implementing code splitting and lazy loading, reducing page load times by 35% and significantly improving the user experience. Optimized frontend workflows with state management tools like Redux and React Context API, ensuring smooth data handling and responsiveness of key financial features. Implemented automated testing using Jest and React Testing Library, reducing production bugs by 20% and improving code reliability across releases."
+      },
+      {
+        "company": "CS Mock",
+        "title": "Frontend Intern",
+        "years": "Aug 2022 - Dec 2022",
+        "description": "Assisted in the development and maintenance of web applications using React.js and Next.js, contributing to the seamless delivery of user-facing features. Collaborated with senior developers to implement responsive UI designs, improving mobile performance and user experience by 15%. Optimized React components and integrated REST APIs for data fetching, reducing page load times by 20%. Utilized version control tools like Git and GitHub to manage codebases, contributing to team-wide projects and ensuring smooth workflows."
       }
     ],
     "skills": [
@@ -68,11 +69,11 @@
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Java",
         "level": "85%"
       },
       {
-        "name": "Git",
+        "name": "React Native",
         "level": "70%"
       },
       {
@@ -88,34 +89,36 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Amazon Clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "amazon.png",
+        "url": "https://github.com/ankitvars/Amazon_Clone"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Disney Clone (React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "disney.png",
+        "url": "https://github.com/ankitvars/netflix-clone"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "User Role Management",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "user-role.png",
+        "url": "https://github.com/ankitvars/user-role-management"
+      },
+      {
+        "title": "Booking Clone (React JS)",
+        "category": "",
+        "image": "booking.png",
+        "url": "https://github.com/ankitvars/booking-clone"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "user": "Martin Fowler"
       }
     ]
   }
