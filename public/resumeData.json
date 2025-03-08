@@ -4,18 +4,18 @@
     "occupation": "Frontend Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.webp",
-    "bio": "Hello! I’m Ankit Varshney, a passionate Frontend Developer with over two years of experience. I've had the privilege of working with both startups and established companies to create intuitive and responsive web applications. Throughout my journey, I discovered my enthusiasm for empowering aspiring developers to unlock their potential. I take pride in mentoring others and sharing my knowledge through engaging tutorials and projects. My portfolio showcases a range of innovative builds that reflect real-world challenges in web development. Join me as we explore the exciting world of technology together, gaining hands-on experience and essential skills that will pave the way for your success in the industry.",
-    "contactmessage": "Get in touch—I’d love to connect and collaborate!",
+    "bio": "Hello! I’m Ankit Varshney, a dedicated Frontend Developer with over three years of experience crafting innovative and responsive web applications. I’ve had the privilege of working with both dynamic startups and established organizations, transforming complex challenges into seamless digital solutions. My passion extends beyond coding—I love mentoring emerging talent and sharing insights through engaging tutorials and projects. My portfolio showcases a diverse range of projects that address real-world problems with cutting-edge technology. Join me on this journey as we explore the dynamic world of web development together.",
+    "contactmessage": "Feel free to reach out—I’m eager to connect, collaborate, and create impactful solutions!",
     "email": "varshneyankit011@gmail.com",
     "phone": "+91 8433459166",
     "address": {
-      "street": "Green Park",
-      "city": "Delhi",
-      "state": "New Delhi",
-      "zip": "110016"
+      "street": "Phase 3",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122010"
     },
-    "website": "",
-    "resumedownload": "https://shorturl.at/X1ZgY",
+    "website": "https://papershapers.in",
+    "resumedownload": "https://drive.google.com/file/d/1aSFkXFsyNC4iSQprODsDLEzpqvZ5Yw0i/view?usp=sharing",
     "social": [
       {
         "name": "leetcode",
@@ -51,16 +51,28 @@
     ],
     "work": [
       {
+        "company": "Cognizant Technology Solutions (via Shephertz Technologies)",
+        "title": "Senior React.js Developer (Full-time)",
+        "years": "Dec 2024 - Present",
+        "description": "Developed a dynamic 'Social Timeline' page using Instagram and Facebook Graph APIs with token authentication to display the three latest posts, boosting engagement. Built a responsive, two-step health insurance premium calculator with real-time API integration for lead generation and seamless redirection. Configured NGINX and managed processes with PM2 to optimize hosting for both frontend and backend services. Modified Strapi URL prefixes to automatically prepend 'content-panel,' resolving routing issues and ensuring reliable API delivery."
+      },
+      {
         "company": "Ruptok Fintech",
-        "title": "Frontend Developer",
-        "years": "Jan 2023 - Present",
-        "description": "Developed and maintained key user-facing features for a fintech platform, enhancing user experience and increasing platform engagement by 20% through intuitive design and optimized workflows. Enhanced platform performance by implementing code splitting and lazy loading, reducing page load times by 35% and significantly improving the user experience. Optimized frontend workflows with state management tools like Redux and React Context API, ensuring smooth data handling and responsiveness of key financial features. Implemented automated testing using Jest and React Testing Library, reducing production bugs by 20% and improving code reliability across releases."
+        "title": "Software Development Engineer - Frontend (Full-time)",
+        "years": "Jan 2023 - Dec 2024",
+        "description": "Directed the design and development of scalable, responsive user interfaces for financial products, achieving a 25% uplift in user engagement. Integrated an advanced OpenAI-powered OCR solution to automate data entry, reducing manual processing time by 30%. Developed a comprehensive library of reusable React components for invoicing and approval workflows, enhancing development efficiency by 40%. Implemented lazy loading and optimized state management techniques, leading to a 35% improvement in application performance. Established rigorous automated testing pipelines using Jest, reducing production issues by 20% while ensuring seamless backend integrations."
       },
       {
         "company": "CS Mock",
-        "title": "Frontend Intern",
-        "years": "Aug 2022 - Dec 2022",
-        "description": "Assisted in the development and maintenance of web applications using React.js and Next.js, contributing to the seamless delivery of user-facing features. Collaborated with senior developers to implement responsive UI designs, improving mobile performance and user experience by 15%. Optimized React components and integrated REST APIs for data fetching, reducing page load times by 20%. Utilized version control tools like Git and GitHub to manage codebases, contributing to team-wide projects and ensuring smooth workflows."
+        "title": "Frontend Developer (Full-time)",
+        "years": "Jan 2022 - Jan 2023",
+        "description": "Engineered user-centric educational platforms with React.js and Next.js, achieving a 15% improvement in usability through targeted performance optimizations. Streamlined API integrations and refined state management strategies, resulting in a 20% improvement in page load times. Conducted thorough code reviews and enforced best practices, significantly elevating code quality and system stability. Collaborated with designers and backend engineers to deliver visually appealing and responsive user interfaces."
+      },
+      {
+        "company": "CS Mock",
+        "title": "Frontend Developer Intern",
+        "years": "Aug 2021 - Dec 2021",
+        "description": "Contributed to the creation of reusable UI components using React.js, accelerating development cycles and enhancing code maintainability. Identified and resolved critical performance bottlenecks, ensuring a smooth and reliable user experience. Supported version control management and maintained comprehensive documentation, fostering efficient team collaboration."
       }
     ],
     "skills": [
@@ -88,6 +100,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Paper Shapers | Digital Document Management Platform",
+        "category": "Full-stack Web Application",
+        "image": "papershapers.png",
+        "url": "https://papershapers.in"
+      },
       {
         "title": "Amazon Clone (React JS)",
         "category": "",
